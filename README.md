@@ -1,10 +1,10 @@
 # Capitulo-6-liu
 Desarrollo de los ejemplos vistos en el capitulo 6 del libro de liu.
 
-##Ejemplo 1
+## Ejemplo 1
 
-![Ejemplo1](Captura de pantalla de 2020-06-16 08-48-50.png)
+![Ejemplo1](img/eje1.png)
 
-##Ejemplo 2
+## Ejemplo 2
 
-![Ejemplo2](Captura de pantalla de 2020-06-16 08-28-51.png)
+![Ejemplo2](img/eje2.png)
